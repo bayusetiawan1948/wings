@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pageBreak {
+    page-break-after: always;
+}
+
+.pageBreakInside {
+    page-break-inside: avoid;
+}
